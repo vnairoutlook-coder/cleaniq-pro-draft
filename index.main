@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CleanIQ Pro Preview | Modern Concept</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="logo-wrapper">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" class="cleaniq-logo">
+            <path class="blue-swoosh" d="M20,60 Q50,20 150,40 T300,60" fill="none" stroke="#00338D" stroke-width="8"/>
+            <text x="130" y="75" font-family="Arial, sans-serif" font-weight="bold" font-size="55" fill="#00338D">Clean</text>
+            <circle cx="295" cy="65" r="25" fill="#00338D" />
+            <text x="282" y="75" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="white">IQ</text>
+            <text x="330" y="75" class="gold-text" font-family="Arial, sans-serif" font-style="italic" font-size="35">pro</text>
+            <path class="gold-star star1" d="M80,25 l2,5 h5 l-4,3 l2,5 l-5-3 l-5,3 l2-5 l-4-3 h5 z" fill="#D4AF37"/>
+            <path class="gold-star star2" d="M120,15 l2,5 h5 l-4,3 l2,5 l-5-3 l-5,3 l2-5 l-4-3 h5 z" fill="#D4AF37"/>
+        </svg>
+    </div>
+</header>
+
+<section class="hero">
+    <h1>Glänzende Sauberkeit für Wien.</h1>
+    <p>Modern. Zuverlässig. Professionell.</p>
+    <button class="cta-button">Jetzt Anfragen</button>
+</section>
+
+</body>
+</html>
